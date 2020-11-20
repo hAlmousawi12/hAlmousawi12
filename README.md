@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on my app(نادي)
+- 🔭 I’m currently working on my brother app (صحتي)
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💬 Ask me about SwiftUI
 - 📫 How to reach me: instagram: @h.almousawi12 or twitter: @almousawi122 
