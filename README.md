@@ -1,7 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Desig-Code
-- 🌚 سحبت على اخوي
+- 🔭 I’m currently working on Nothingggggg
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💬 Ask me about SwiftUI
 - 📫 How to reach me: instagram: @h.almousawi12 or twitter: @almousawi122 
