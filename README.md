@@ -11,3 +11,5 @@ Hi there 👋
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hAlmousawi12&&show_icons=true&title_color=2b2d42&icon_color=edf2f4&text_color=8d99ae&bg_color=000000">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hAlmousawi12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
