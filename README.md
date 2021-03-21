@@ -8,16 +8,11 @@ Hi there 👋
 - not a fun fact: don't use that emoji 🦦 it's mine
 
 
+<!--- you profile rank --->
 <a href="https://github.com/hAlmousawi12">
   <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=hAlmousawi12&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-</a>
 
+
+<!--- most used languages --->
 <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=hAlmousawi12&layout=compact&card_width=250&hide_border=true&theme=tokyonight" />
-
-
-
-
-
-
-<!--- <img src="https://github-readme-stats.vercel.app/api?username=hAlmousawi12&&show_icons=true&title_color=2b2d42&icon_color=edf2f4&text_color=8d99ae&bg_color=000000">
- --->
+</a>
