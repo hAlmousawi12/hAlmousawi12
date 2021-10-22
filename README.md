@@ -4,8 +4,6 @@ Hi there 👋
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💬 Ask me about SwiftUI
 - 📫 How to reach me: <a href="https://instagram.com/almousawi.code">Instagram: @almousawi.code</a> or <a href="https://twitter.com/almousawi122">Twitter: @almousawi122</a>
-- ⚡ Fun fact: I love SwiftUI so much
-- not a fun fact: don't use that emoji 🦦 it's mine
 
 
 <!--- you profile rank --->
