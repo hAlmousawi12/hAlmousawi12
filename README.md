@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 💬 Ask me about SwiftUI
-- 📫 How to reach me: <a href="https://instagram.com/almousawi.h12">Instagram: @almousawi.code</a> or <a href="https://twitter.com/almousawi122">Twitter: @almousawi122</a>
+- 📫 How to reach me: <a href="https://instagram.com/almousawi.h12">Instagram: @almousawi.h12</a> or <a href="https://twitter.com/almousawi122">Twitter: @almousawi122</a>
 
 <!--- you profile rank --->
 <a href="https://hAlmousawi12.github.io">
